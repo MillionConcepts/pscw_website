@@ -10,7 +10,7 @@ site:
 
 +++ { "kind": "split-image" }
 
-### Planetary Science Community Workshop 2027
+### 2nd Planetary Science Community Workshop 2027
 
 |  |  |
 |-------|------|
