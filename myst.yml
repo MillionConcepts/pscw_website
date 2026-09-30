@@ -10,17 +10,17 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: pages/main.md
-    - file: pages/summary.md
-    - file: pages/agenda.md
-    - file: pages/keynotes.md
-    - file: pages/registration.md
-    - file: pages/virtual.md
-    - file: pages/abstracts.md
-    - file: pages/logistics.md
-    - file: pages/organizers.md
-    - file: pages/conduct.md
-    - file: pages/budget.md
-    - file: pages/contact.md
+    # - file: pages/summary.md
+    # - file: pages/agenda.md
+    # - file: pages/keynotes.md
+    # - file: pages/registration.md
+    # - file: pages/virtual.md
+    # - file: pages/abstracts.md
+    # - file: pages/logistics.md
+    # - file: pages/organizers.md
+    # - file: pages/conduct.md
+    # - file: pages/budget.md
+    # - file: pages/contact.md
 site:
   template: book-theme
   url: https://planetaryworkshop.org
@@ -33,37 +33,37 @@ site:
   nav:
     - title: Home
       url: /
-    - title: Agenda
-      url: /agenda
-      children:
-        - title: Summary Overview
-          url: /summary
-        - title: Schedule & Agenda
-          url: /agenda
-        - title: Keynote Speakers
-          url: /keynotes
-    - title: Registration
-      url: /registration
-      children:
-        - title: In-Person
-          url: /registration
-        - title: Virtual
-          url: /virtual
-    - title: Abstracts
-      children:
-        - title: Abstract Submission
-          url: /abstracts
-        - title: Agenda
-    - title: Logistics
-      url: /logistics
-      children:
-      - title: Logistics & Lodging
-        url: /logistics
-      - title: Organizers & SOC
-        url: /organizers
-      - title: Code of Conduct
-        url: /conduct
-      - title: Budget & Costs
-        url: /budget
-      - title: Contact
-        url: /contact
+    # - title: Agenda
+    #   url: /agenda
+    #   children:
+    #     - title: Summary Overview
+    #       url: /summary
+    #     - title: Schedule & Agenda
+    #       url: /agenda
+    #     - title: Keynote Speakers
+    #       url: /keynotes
+    # - title: Registration
+    #   url: /registration
+    #   children:
+    #     - title: In-Person
+    #       url: /registration
+    #     - title: Virtual
+    #       url: /virtual
+    # - title: Abstracts
+    #   children:
+    #     - title: Abstract Submission
+    #       url: /abstracts
+    #     - title: Agenda
+    # - title: Logistics
+    #   url: /logistics
+    #   children:
+      # - title: Logistics & Lodging
+      #   url: /logistics
+      # - title: Organizers & SOC
+      #   url: /organizers
+      # - title: Code of Conduct
+      #   url: /conduct
+      # - title: Budget & Costs
+      #   url: /budget
+    # - title: Contact
+    #   url: /contact
